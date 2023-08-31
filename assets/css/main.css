@@ -897,6 +897,24 @@ section.calculator .section-heading h4 {
   opacity: 0.9;
 }
 
+textarea{
+ background-color: rgba(121,134,151, 0.7);
+  background-size: cover;
+  color: #fff; /* Text color */
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+/* Placeholder text color */
+#myTextarea::placeholder {
+  padding-left: 10px;
+  padding-top: 10px;
+  color: #fff; /* Your preferred color */
+}
+
+/* Adjust any other styles as needed */
+
+
 
 
 /* 
